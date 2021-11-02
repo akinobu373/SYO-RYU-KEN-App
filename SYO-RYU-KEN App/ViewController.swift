@@ -27,7 +27,6 @@ class ViewController: UIViewController {
         imageView.animationRepeatCount = 1
         imageView.startAnimating()
     }
-    
 }
 
 
